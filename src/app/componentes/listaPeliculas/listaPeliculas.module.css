@@ -1,0 +1,7 @@
+/* src/components/listaPeliculas.module.css */
+.listaPeliculasContainer {
+    background-color: #424242; /* Color de fondo deseado */
+    padding: 20px; /* Agrega un poco de espacio alrededor del contenido */
+    color: white; /* Cambia el color del texto para que contraste */
+    height: 100vh;
+  }

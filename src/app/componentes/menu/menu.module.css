@@ -1,0 +1,82 @@
+/* src/components/menu.module.css */
+.titleh4{
+    margin-bottom: 5px;
+}
+.menuContainer {
+    width: 300px;
+    padding: 20px;
+    background-color: #1c1c1c;
+    color: white;
+  }
+  
+  .tileh4 {
+    margin-bottom: 15px;
+  }
+  
+  .searchContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .searchInput {
+    flex: 1;
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+  }
+  
+  .searchButton {
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1.2em;
+    margin-left: 5px;
+  }
+  
+  .genreContainer {
+    margin-top: 40px; /* Espaciado de 40px con el campo de búsqueda */
+    width: 100%;
+  }
+  
+  .genreButton {
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    height: 55px;
+  }
+  
+  .dropdown {
+    height: 200px;
+    background-color: #333;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 100%; /* Establecer el ancho para que coincida con el botón */
+    overflow-y: scroll;
+  }
+  
+  .dropdown ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .dropdown li {
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  .dropdown li:hover {
+    background-color: #444;
+  }
+   .Linea{
+    background-color: #fff;
+    height: 2px;
+   }
