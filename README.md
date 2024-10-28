@@ -1,12 +1,12 @@
-Proyecto Next.js
+## Proyecto Next.js
 
 Este es un proyecto Next.js iniciado con 
 
 ```bash
 create-next-app.
 ```
-Comenzando
-Instalación de dependencias
+
+## Instalación de dependencias
 Para comenzar, primero instala las dependencias del proyecto. Usa uno de los siguientes comandos:
 
 ```bash
@@ -18,8 +18,8 @@ pnpm install
 # o
 bun install
 ```
-Iniciar el servidor de desarrollo
-Luego, inicia el servidor de desarrollo con el siguiente comando:
+## Iniciar el servidor de desarrollo
+Inicia el servidor de desarrollo con el siguiente comando:
 
 ```bash
 npm run dev
