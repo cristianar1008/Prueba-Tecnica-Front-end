@@ -38,7 +38,7 @@ const Pelicula: React.FC<PeliculaProps> = ({ title, releaseDate, rating, favorit
                 <span className="percentage2">75%</span>
             </div>
             </div>
-            {/* Contenedor para el ícono de favoritos */}
+            {}
             <div className={styles.favoritesContainer}>
                 <h4 className={styles.titleDetails}>Favorites</h4>
                 {liked ? (

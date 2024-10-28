@@ -10,7 +10,7 @@ const Header: React.FC = () => {
     <div className={styles.completo}>
     <div className={styles.izquierdo}>
     <div className={styles.logo}>
-        {/* Aquí puedes agregar el ícono */}
+        {}
         <img src={logo.src} alt="Logo" />
       </div>
       <nav className={styles.nav}>
@@ -22,7 +22,7 @@ const Header: React.FC = () => {
     </div>
     <div className={styles.derecho}>
     <div className={styles.userIcon}>
-        {/* Aquí puedes agregar el ícono de usuario */}
+        {}
         <img src={user.src} alt="User" />
       </div>
     </div>

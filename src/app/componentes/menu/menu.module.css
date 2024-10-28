@@ -37,7 +37,7 @@
   }
   
   .genreContainer {
-    margin-top: 40px; /* Espaciado de 40px con el campo de búsqueda */
+    margin-top: 40px; 
     width: 100%;
   }
   
@@ -58,7 +58,7 @@
     background-color: #333;
     border-radius: 5px;
     margin-top: 10px;
-    width: 100%; /* Establecer el ancho para que coincida con el botón */
+    width: 100%; 
     overflow-y: scroll;
   }
   

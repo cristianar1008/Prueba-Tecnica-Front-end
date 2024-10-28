@@ -39,9 +39,9 @@ const Home: React.FC = () => {
 
     
       <div className="layoutContainer">
-        <Menu /> {/* Menú a la izquierda */}
+        <Menu /> {}
         <section className="movieListContainer"> 
-          <ListaPeliculas /> {/* Lista de películas a la derecha */}
+          <ListaPeliculas /> {}
         </section>
       </div>
     </main>
